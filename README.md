@@ -4,5 +4,7 @@
 > Every record should contain at least two parts: paper and the presentation files(maybe hypelink).
 
 GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs [[Paper](https://zplin.me/papers/GREBE.pdf)] [[Presentation](./PresentationFiles/GREBE.pdf)]
+
 SDFuzz: Target States Driven Directed Fuzzing [[Paper](https://www.usenix.org/system/files/usenixsecurity24-li-penghui.pdf)] [[Presentation](./PresentationFiles/SDFUZZ.pdf)]
+
 TensileFuzz: facilitating seed input generation in fuzzing via string constraint solving [[Paper](https://dl.acm.org/doi/pdf/10.1145/3533767.3534403)][[Presentation](./PresentationFiles/TensileFuzz.pdf)]
