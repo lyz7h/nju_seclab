@@ -8,3 +8,5 @@ GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs [[Paper](https://z
 SDFuzz: Target States Driven Directed Fuzzing [[Paper](https://www.usenix.org/system/files/usenixsecurity24-li-penghui.pdf)] [[Presentation](./PresentationFiles/SDFUZZ.pdf)]
 
 TensileFuzz: facilitating seed input generation in fuzzing via string constraint solving [[Paper](https://dl.acm.org/doi/pdf/10.1145/3533767.3534403)][[Presentation](./PresentationFiles/TensileFuzz.pdf)]
+
+D-Helix: A Generic Decompiler Testing Framework Using Symbolic Differentiation [[Paper](https://www.usenix.org/system/files/sec24fall-prepub-759-zou.pdf)][[Presentation](./PresentationFiles/D-Helix.pdf)]
