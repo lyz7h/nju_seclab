@@ -10,3 +10,5 @@ SDFuzz: Target States Driven Directed Fuzzing [[Paper](https://www.usenix.org/sy
 TensileFuzz: facilitating seed input generation in fuzzing via string constraint solving [[Paper](https://dl.acm.org/doi/pdf/10.1145/3533767.3534403)][[Presentation](./PresentationFiles/TensileFuzz.pdf)]
 
 D-Helix: A Generic Decompiler Testing Framework Using Symbolic Differentiation [[Paper](https://www.usenix.org/system/files/sec24fall-prepub-759-zou.pdf)][[Presentation](./PresentationFiles/D-Helix.pdf)]
+
+ERASAN: Efficient Rust Address Sanitizer [[Paper](https://s2-lab.github.io/assets/erasan_S&P_2024.pdf)] [[Presentation](./PresentationFiles/ERASAN.pdf)]
