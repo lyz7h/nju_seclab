@@ -12,3 +12,5 @@ TensileFuzz: facilitating seed input generation in fuzzing via string constraint
 D-Helix: A Generic Decompiler Testing Framework Using Symbolic Differentiation [[Paper](https://www.usenix.org/system/files/sec24fall-prepub-759-zou.pdf)][[Presentation](./PresentationFiles/D-Helix.pdf)]
 
 ERASAN: Efficient Rust Address Sanitizer [[Paper](https://s2-lab.github.io/assets/erasan_S&P_2024.pdf)] [[Presentation](./PresentationFiles/ERASAN.pdf)]
+
+ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries [[Paper](https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf)] [[Presentation](./PresentationFiles/resym-ccs24.pdf)]
