@@ -16,3 +16,5 @@ ERASAN: Efficient Rust Address Sanitizer [[Paper](https://s2-lab.github.io/asset
 ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Stripped Binaries [[Paper](https://www.cs.purdue.edu/homes/lintan/publications/resym-ccs24.pdf)] [[Presentation](./PresentationFiles/resym-ccs24.pdf)]
 
 Vulnerabilities Introduced by Parsing Inconsistencies: [[Paper1](https://dl.acm.org/doi/abs/10.1145/3460120.3485384)] [[Paper2](https://ieeexplore.ieee.org/document/9833690)]  [[Presentation](./PresentationFiles/Parsing_Inconsistency.pdf)]
+
+SpecLFB: Eliminating Cache Side Channels in Speculative Executions [[Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/cheng-xiaoyu)] [[Presentation](./PresentationFiles/SpecLFB.pdf)]
