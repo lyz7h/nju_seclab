@@ -18,3 +18,5 @@ ReSym: Harnessing LLMs to Recover Variable and Data Structure Symbols from Strip
 Vulnerabilities Introduced by Parsing Inconsistencies: [[Paper1](https://dl.acm.org/doi/abs/10.1145/3460120.3485384)] [[Paper2](https://ieeexplore.ieee.org/document/9833690)]  [[Presentation](./PresentationFiles/Parsing_Inconsistency.pdf)]
 
 SpecLFB: Eliminating Cache Side Channels in Speculative Executions [[Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/cheng-xiaoyu)] [[Presentation](./PresentationFiles/SpecLFB.pdf)]
+
+SFuzz: Slice-based Fuzzing for Real-Time Operating Systems[[Paper](https://dl.acm.org/doi/10.1145/3548606.3559367)][[Presentation](./PresentationFiles/20241112_SFuzz.pptx)]
