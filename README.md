@@ -19,4 +19,7 @@ Vulnerabilities Introduced by Parsing Inconsistencies: [[Paper1](https://dl.acm.
 
 SpecLFB: Eliminating Cache Side Channels in Speculative Executions [[Paper](https://www.usenix.org/conference/usenixsecurity24/presentation/cheng-xiaoyu)] [[Presentation](./PresentationFiles/SpecLFB.pdf)]
 
+DeLink: Source File Information Recovery in Binaries  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3650212.3680338)] [[Presentation](./PresentationFiles/delink.pdf)]
+
+
 SFuzz: Slice-based Fuzzing for Real-Time Operating Systems[[Paper](https://dl.acm.org/doi/10.1145/3548606.3559367)][[Presentation](./PresentationFiles/20241112_SFuzz.pptx)]
